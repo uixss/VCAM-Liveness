@@ -1,15 +1,12 @@
 
 # Videos de Revisión
 
-A continuación se muestran los videos y GIFs de los cinco aspectos evaluados.  
-Los archivos se encuentran en la carpeta [`review/`](./review) del repositorio.
+ 
 
 ---
 
 ## Liveness
-![Liveness en GIF](review/liveness.gif)  
-*Si el GIF no se visualiza, puedes [descargarlo](review/liveness.gif).*  
-
+![Liveness en GIF](review/1.mp4)  
  
 
 ---
