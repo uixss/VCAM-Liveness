@@ -1,37 +1,40 @@
-
-# Videos de Revisión
-
  
-
 ---
 
 ## Liveness
-![Liveness en GIF](./review/1.mp4)  
- 
+<video src="./review/1.mp4" controls width="600" preload="metadata">
+  
+</video>
 
 ---
 
 ## Reflect Display
-![Reflect Display en GIF](review/reflect_display.gif)  
+<video src="./review/sasa.mp4" controls width="600" preload="metadata">
+ 
+</video>
+
  
 ---
 
 ## Debug
-![Debug en GIF](review/debug.gif)  
- 
+<video src="./review/debug.mp4" controls width="600" preload="metadata">
+  
+</video>
 
 ---
 
 ## Finger
-![Finges en GIF](review/finges.gif)  
+<video src="./review/finger.mp4" controls width="600" preload="metadata">
  
+</video>
 
 ---
 
 ## Maps
-![Maps en GIF](review/maps.gif)  
+<video src="./review/maps.mp4" controls width="600" preload="metadata">
  
+</video>
 
 ---
 
-> **Nota:** Si algún archivo no está presente en la carpeta `review`, solo se mostrará el que exista (GIF o MP4). Ajusta las rutas o extensiones según los nombres reales de tus archivos.
+> **Nota:** Solo se incluyen archivos MP4 en esta carpeta. Asegúrate de que los nombres de archivo coincidan con los enlaces de arriba. Si algún video no se reproduce, verifica que el archivo exista en `review/` y que la ruta sea correcta.
